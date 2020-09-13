@@ -1,1 +1,0 @@
-void PrintPos(int xPos, int yPos);
